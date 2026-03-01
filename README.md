@@ -18,3 +18,7 @@ En la imagen de la izquierda se puede apreciar el modelo sin entrenar, la imagen
 2. Abre el proyecto en Android Studio y deja que se compile.
 3. Instalar la aplicación en el teléfono móvil.
 4. Comenzar a detectar.
+
+## Recursos:
+Blog [Medium](https://medium.com/google-developer-experts/yolov10-to-litert-object-detection-on-android-with-google-ai-edge-2d0de5619e71)
+para la implementación paso a paso.
